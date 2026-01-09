@@ -52,5 +52,5 @@ O projeto gera automaticamente:
 
 2. **Matriz de Confusão:** Para identificar quais peças de roupa o modelo tem mais dificuldade em distinguir.
 
-Equipe: Eric Rodrigues Arrais & Kenya Tyeh Kusano Santos
+Equipe: Eric Rodrigues Arrais & Kenya Tyeh Kusano Santos | 
 Data: 06/09/2025
